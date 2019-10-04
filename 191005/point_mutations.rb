@@ -10,7 +10,7 @@
 # GAGCCTACTAACGGGAT
 # CATCGTAATGACGGCCT
 # ^ ^ ^  ^ ^    ^^
-# The Hamming distance between these two DNA strands is 7.
+# The Hamming distance between these two DNA  strands is 7.
 
 # Write a program that can calculate the Hamming difference between two DNA strands.
 
