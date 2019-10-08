@@ -26,7 +26,7 @@ counter = 0
 
 var1.each_with_index do |k, i|
     if k != var2[i]
-        counter += 1 
+        counter += 1
     end 
 end
 

@@ -14,6 +14,7 @@
 # G: 17
 # T: 21
 
+
 count_nucleotides = 'AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC'
 
 var1 = count_nucleotides.split('')
