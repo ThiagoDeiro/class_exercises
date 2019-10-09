@@ -41,5 +41,8 @@ p "C = #{counterC}"
 p "G = #{counterG}"
 p "T = #{counterT}"
     
+
+
+
     
 
