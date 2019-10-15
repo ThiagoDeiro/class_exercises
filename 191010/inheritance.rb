@@ -1,6 +1,7 @@
 
 # exem of inheritance
 class Feline
+
     attr_accessor :name, :age
 
     def initialize(name, age= 0)
@@ -17,7 +18,7 @@ class Feline
     end
 
 end
-
+# exemple 2 
 class Cat < Feline
     def meow
         puts "#{@name} is meooowing!"
